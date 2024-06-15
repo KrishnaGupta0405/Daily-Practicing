@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0344-reverse-string) |
 # Math
 |  |
