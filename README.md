@@ -17,3 +17,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0137-single-number-ii) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0344-reverse-string) |
+# String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0344-reverse-string) |
