@@ -1,38 +1,31 @@
 class Solution {
 public:
     int divide(int dividend, int divisor) {
-        // Handle overflow cases
+        // Handle overflow case for INT_MIN / -1
         if (dividend == INT_MIN && divisor == -1) {
-            return INT_MAX; // Overflow case
+            return INT_MAX; // Return INT_MAX to prevent overflow
         }
 
-        // Determine the sign of the result
-        bool isNegative = (dividend < 0) ^ (divisor < 0); // XOR to check if signs are opposite
+        // Handle edge case where divisor is 1 or -1
+        if (divisor == 1) return dividend;
+        if (divisor == -1) return -dividend;
 
-        // Convert both dividend and divisor to positive values using long long
-        long long absDividend = abs((long long)dividend);
-        long long absDivisor = abs((long long)divisor);
+        // Determine if the result is negative
+        bool isNegative = (dividend < 0) ^ (divisor < 0); 
 
-        long long result = 0;
+        // Convert dividend and divisor to long long to handle overflow cases
+        long long absDividend = labs((long long)dividend);
+        long long absDivisor = labs((long long)divisor);
 
-        // Left shift divisor until it exceeds the dividend
+        int count = 0;
+        
+        // Perform division using repeated subtraction
         while (absDividend >= absDivisor) {
-            long long tempDivisor = absDivisor, multiple = 1;
-            while (absDividend >= (tempDivisor << 1)) {
-                tempDivisor <<= 1;
-                multiple <<= 1;
-            }
-            absDividend -= tempDivisor;
-            result += multiple;
+            absDividend -= absDivisor;
+            count++;
         }
 
-        // Apply the sign to the result
-        result = isNegative ? -result : result;
-
-        // Handle overflow
-        if (result > INT_MAX) return INT_MAX;
-        if (result < INT_MIN) return INT_MIN;
-
-        return result;
+        // Return the result with the correct sign
+        return isNegative ? -count : count;
     }
 };
