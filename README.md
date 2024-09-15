@@ -55,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
+| [2058-concatenation-of-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
