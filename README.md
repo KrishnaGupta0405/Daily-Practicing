@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0029-divide-two-integers) |
+| [2556-convert-the-temperature](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2556-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
