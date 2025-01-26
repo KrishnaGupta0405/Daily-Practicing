@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-    // Option 1
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
         vector<vector<int>> Outer;
         if (!root) return Outer;
@@ -33,44 +32,4 @@ public:
         return Outer;
     }
 
-
-    // Option 2-> just lil change of levelOrderTraversal
-    
-    // vector<vector<int>> levelOrderBottom(TreeNode* root) {
-    //     queue<TreeNode*> q;
-    //     vector<vector<int>> Outer;
-    //     vector<int> Inner;
-
-    //     if( root == NULL ){
-    //         return Outer;
-    //     }
-    //     q.push(root);
-    //     q.push(NULL);
-
-    //     while(!q.empty()){
-    //         TreeNode* temp = q.front();
-    //         q.pop();
-    //         if (temp == NULL ){
-    //             //One level is completed
-    //             Outer.insert(Outer.begin(),Inner);
-    //             Inner.clear();
-
-    //             //Intializing the next level
-    //             if (!q.empty()){
-    //                 q.push(NULL);
-    //             }
-    //         }
-    //         else{ 
-    //             //input the element in the same array i.e. the same level
-    //             Inner.push_back(temp->val);
-    //             if (temp->left){
-    //                 q.push(temp->left);
-    //             }
-    //             if (temp->right){
-    //                 q.push(temp->right);
-    //             }
-    //         }
-    //     }
-    //     return Outer;
-    // }
 };
