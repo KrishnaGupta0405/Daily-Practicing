@@ -143,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
