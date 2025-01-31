@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0948-sort-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0035-search-insert-position) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
