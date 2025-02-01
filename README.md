@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0053-maximum-subarray) |
+| [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0948-sort-an-array) |
 | [2058-concatenation-of-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
+| [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0035-search-insert-position) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Tree
 |  |
 | ------- |
@@ -159,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
