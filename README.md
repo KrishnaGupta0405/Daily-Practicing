@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
