@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0189-rotate-array) |
 | [2556-convert-the-temperature](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2556-convert-the-temperature) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
 ## Trie
