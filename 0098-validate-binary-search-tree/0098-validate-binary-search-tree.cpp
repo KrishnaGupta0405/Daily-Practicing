@@ -16,7 +16,9 @@ public:
             return true;
         }
         if (root->val > min && root->val < max) { 
-            return isBST(root->left, min, root->val) && isBST(root->right, root->val, max);
+            bool left = isBST(root->left, min, root->val);
+            bool right = isBST(root->right, root->val, max);
+            return left && right;
         }
         return false;
     }
