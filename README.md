@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0098-validate-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Tree
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
