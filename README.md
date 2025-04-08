@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [2556-convert-the-temperature](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2556-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0948-sort-an-array) |
 | [2058-concatenation-of-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2058-concatenation-of-array) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -152,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Tree
 |  |
