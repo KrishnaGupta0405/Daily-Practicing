@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0948-sort-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
+| [0217-contains-duplicate](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
