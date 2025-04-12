@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0217-contains-duplicate) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
 | ------- |
