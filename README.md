@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
+| [0867-transpose-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0867-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0948-sort-an-array) |
 | [2058-concatenation-of-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0867-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -246,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
