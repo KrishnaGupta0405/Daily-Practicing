@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
