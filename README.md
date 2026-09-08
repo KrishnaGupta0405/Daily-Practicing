@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2556-convert-the-temperature](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2556-convert-the-temperature) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 ## Array
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
