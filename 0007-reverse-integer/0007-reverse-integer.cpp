@@ -1,15 +1,15 @@
 class Solution {
 public:
-    int reverse(int n) {
-        long long int x = 0;
-        while (n != 0) {
-            x = (x * 10) + (n % 10);
-            n /= 10;
-            // Check for overflow
-            if (x > INT_MAX || x < INT_MIN) {
-                return 0; // Return 0 in case of overflow
-            }
+    int reverse(int x) {
+        if(x >INT_MAX || x < INT_MIN) return 0;
+        
+        int ans = 0;
+        while(x!=0){
+            int digit = x % 10;
+            if(ans > INT_MAX/10 || ans < INT_MIN/10) return 0;
+            ans = (ans * 10) + digit;
+            x /= 10;
         }
-        return x;
+        return ans;
     }
 };
