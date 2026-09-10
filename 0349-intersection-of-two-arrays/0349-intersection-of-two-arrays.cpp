@@ -1,15 +1,33 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        unordered_set<int> set(nums1.begin(), nums1.end()); // Store elements of nums1
-        unordered_set<int> result; // To store intersection elements
+        int i = 0, j =0;
+        sort(nums1.begin(),nums1.end());
+        sort(nums2.begin(),nums2.end());
 
-        for (int num : nums2) {
-            if (set.find(num) != set.end()) {  // if the element is not found then the set.end() is returned
-                result.insert(num); // If present in nums1, add to result
+        int maxi= max(nums1[nums1.size()-1],nums2[nums2.size()-1]);
+        vector<bool> ans(maxi+1);
+
+        while(i < nums1.size() && j < nums2.size()){
+            if(nums1[i] == nums2[j]){
+                ans[nums1[i]]=true;
+                i++;
+                j++;
+            }
+            else if(nums1[i] > nums2[j]){
+                j++;
+            }
+            else{
+                i++;
             }
         }
-
-        return vector<int>(result.begin(), result.end()); // Convert set to vector
+        
+        vector<int> arr;
+        for(int i = 0; i < ans.size(); i++){
+            if(ans[i]==true){
+                arr.push_back(i);
+            }
+        }
+        return arr;
     }
 };
