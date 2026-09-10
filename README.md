@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0217-contains-duplicate) |
