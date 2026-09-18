@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0867-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0948-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1207-unique-number-of-occurrences) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0075-sort-colors) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
