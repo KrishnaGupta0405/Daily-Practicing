@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0867-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0948-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1207-unique-number-of-occurrences) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
