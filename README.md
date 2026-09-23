@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0541-reverse-string-ii) |
 ## Trie
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0541-reverse-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
