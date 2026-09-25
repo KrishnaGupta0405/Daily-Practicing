@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0075-sort-colors) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0867-transpose-matrix) |
 ## Quicksort
