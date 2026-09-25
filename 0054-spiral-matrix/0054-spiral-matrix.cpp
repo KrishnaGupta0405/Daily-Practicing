@@ -1,41 +1,44 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int n = matrix.size();
-        int m = matrix[0].size();
+        int rows = matrix.size();
+        int cols = matrix[0].size();
 
+        int startCol = 0;
+        int endCol = cols -1;
+        int startRow = 0;
+        int endRow = rows-1;
+
+// cout<<endCol<< " "<< endRow << endl;
         vector<int> ans;
-
-        int row_start = 0, row_end = n - 1;
-        int col_start = 0, col_end = m - 1;
-
-        while (row_start <= row_end && col_start <= col_end) {
-
-            // Left -> Right
-            for (int col = col_start; col <= col_end; col++)
-                ans.push_back(matrix[row_start][col]);
-            row_start++;
-
-            // Top -> Bottom
-            for (int row = row_start; row <= row_end; row++)
-                ans.push_back(matrix[row][col_end]);
-            col_end--;
-
-            // Right -> Left
-            if (row_start <= row_end) { // for non-symmetrical matrix like example-2
-                for (int col = col_end; col >= col_start; col--)
-                    ans.push_back(matrix[row_end][col]);
-                row_end--;
+        while((startCol <= endCol) && (startRow <= endRow)){
+            // First Col
+            for(int col = startCol; col <= endCol; col++){
+                ans.push_back(matrix[startRow][col]);
             }
+            startRow++;
 
-            // Bottom -> Top
-            if (col_start <= col_end) { // for non-symmetrical matrix like example-2
-                for (int row = row_end; row >= row_start; row--)
-                    ans.push_back(matrix[row][col_start]);
-                col_start++;
+            // Last row
+            for(int row = startRow; row <= endRow; row++){
+                ans.push_back(matrix[row][endCol]);
+            }
+            endCol--;
+
+            // Last col
+            if (startRow <= endRow) {
+                for(int col = endCol; col >= startCol; col--){
+                    ans.push_back(matrix[endRow][col]);
+                }
+                endRow--;
+            }
+            // First Row
+            if (startCol <= endCol) {
+                for(int row = endRow; row >= startRow; row--){
+                    ans.push_back(matrix[row][startCol]);
+                }
+                startCol++;
             }
         }
-
         return ans;
     }
 };
