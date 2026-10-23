@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0541-reverse-string-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
