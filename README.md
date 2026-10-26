@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0268-missing-number) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0283-move-zeroes) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0876-middle-of-the-linked-list) |
@@ -351,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
