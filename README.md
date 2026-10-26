@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0234-palindrome-linked-list) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaGupta0405/Daily-Practicing/tree/master/0234-palindrome-linked-list) |
